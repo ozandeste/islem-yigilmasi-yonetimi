@@ -32,5 +32,6 @@ Wait-Die Algoritması, deadlock önlemek için işlem önceliklerini kullanan bi
    make
    ```
 4. **Çalıştırın**:
-   ```build/main
+   ```bash
+   build/main
    ```
